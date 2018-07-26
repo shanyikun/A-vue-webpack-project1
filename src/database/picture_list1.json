@@ -1,0 +1,8 @@
+{
+  "pictures": [{"id": 1, "url": "./src/images/1.jpg"},
+                {"id": 2, "url": "./src/images/2.jpg"},
+                {"id": 3, "url": "./src/images/3.jpg"},
+                {"id": 4, "url": "./src/images/4.jpg"},
+                {"id": 5, "url": "./src/images/5.jpg"},
+                {"id": 6, "url": "./src/images/6.jpg"}]
+}

@@ -1,0 +1,7 @@
+{
+  "thumb": [{"src": "./src/images/1.jpg", "msrc": "./src/images/1.jpg","w":600, "h": 400},
+    {"src": "./src/images/2.jpg","msrc": "./src/images/2.jpg", "w":600, "h": 400},
+    {"src": "./src/images/3.jpg" ,"msrc": "./src/images/3.jpg", "w":600, "h": 400},
+    {"src": "./src/images/4.jpg", "msrc": "./src/images/4.jpg","w":600, "h": 400},
+{"src": "./src/images/5.jpg" , "msrc": "./src/images/5.jpg","w":600, "h": 400}]
+}
